@@ -1,5 +1,5 @@
 # TaxingYourVote
-<h2>By: Shane English, Setrige Crawford and Jenna Bagcal</h2>
+<h3>By: Shane English, Setrige Crawford and Jenna Bagcal</h3>
 
 <h3>Process/problems</h3>
 
