@@ -10,3 +10,9 @@
 <p>A challenge we faced was combing through each of the candidate's extensive tax proposals and choosing which details to include. Creating the tabs from scratch was also a challenge, since we haven't learned the coding for that in class. We tried a few codes that were intially not responsive, until we found the bootstrap code that worked. We used that code as a skeleton for our own tabs.</p>
 
 <p>Another challenge was trying to input links that would open in a new page instead of on the same page. This can be accomplished by adding target="_blank" next to the web address.</p> 
+
+<p>Creating the calculator was very difficult as well. Since our current tax code (and the propsed codes of Clinton and Sanders) rely on many income brakets, the functions are long and a little confusing to read.</p>
+
+<p>The calculator is broken up into a series of functions that calculates income tax based on user imput. Each function corresponds to the stated tax plan of each candidate.</p>
+
+<p>Additionally, we had to turn to JS Fiddle to get some help troubleshooting issues with the calculator. Unfortunately, I (Shane) was trying to figure out why the calculator was only returning results for 2016, Ted Cruz, Hilary Clinton, and Marco Rubio when I somehow broke the entire calculator. As of deadline, I haven't fixed the problem and am reaching out for some help.</p>
